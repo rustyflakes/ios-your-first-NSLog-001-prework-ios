@@ -11,7 +11,7 @@
      * Hey! Write your code here! :D
      
      */
-    
+    NSLog(@"Hello World, this is my first NSlog");
     // do not alter
     return YES;  //
 }   ///////////////
